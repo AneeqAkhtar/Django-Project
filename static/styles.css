@@ -1,0 +1,57 @@
+/* styles.css */  
+
+/* General Body Styles */  
+body {  
+    font-family: 'Arial', sans-serif;  
+    background-color: #f8f9fa; /* Light gray background */  
+    color: #343a40; /* Dark text */  
+    margin: 0;  
+    padding: 0;  
+}  
+
+/* Navbar Styles */  
+.navbar {  
+    margin-bottom: 20px; /* Add some space below the navbar */  
+    border-bottom: 2px solid #007bff; /* Blue line under the navbar */  
+}  
+
+/* Centering and Card Styles */  
+.container {  
+    margin-top: 20px; /* Space above the container */  
+}  
+
+.card {  
+    border: none; /* No border */  
+    border-radius: 10px; /* Rounded corners */  
+}  
+
+/* Search Form */  
+.form-control {  
+    border-color: #007bff; /* Blue border for the search input */  
+}  
+
+/* Button Hover Effect */  
+.btn-outline-success {  
+    border-color: #28a745; /* Green border for the button */  
+    color: #28a745; /* Green text */  
+}  
+
+/* Button hover effects */  
+.btn-outline-success:hover {  
+    background-color: #28a745; /* Green */  
+    color: white; /* White text */  
+}  
+
+/* Custom Shadow Effect */  
+.shadow-custom {  
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); /* Enhanced shadow */  
+}  
+
+/* Footer Styles */  
+footer {  
+    background-color: #007bff; /* Blue background */  
+    color: white; /* White text */  
+    text-align: center;   
+    padding: 10px 0;  
+    margin-top: 20px; /* Space above the footer */  
+}
